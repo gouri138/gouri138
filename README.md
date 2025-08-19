@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📝 I regularly write articles on [medium](medium)
-
 - 📫 How to reach me **gouri.sharma0512@gmail.com**
 
 ### Blogs posts
