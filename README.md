@@ -12,20 +12,7 @@
 
 <div align="center"><p>open-source projects as GSSOC '25 and OSCI '25 contributor.</p></div>
 
-## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'gouri138' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/gouri138/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'gouri138' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gouri138&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
 
 ## 📊 GitHub Stats
 
